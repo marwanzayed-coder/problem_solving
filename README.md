@@ -2,7 +2,7 @@
 
 The Number Of Problems You Solved Is 
 
-![6%](https://progress-bar.dev/6/?title=Solve)
+![7%](https://progress-bar.dev/7/?title=Solve)
 
 
 - [001- Uppercase](https://github.com/marwanzayed-coder/problem_solving/blob/main/uppercase.js)
@@ -11,3 +11,4 @@ The Number Of Problems You Solved Is
 - [004- Find Circle Area](https://github.com/marwanzayed-coder/problem_solving/blob/main/find_circle_area.js)
 - [005- Cone Volume](https://github.com/marwanzayed-coder/problem_solving/blob/main/cone_volume.js)
 - [006- Calculate Sum](https://github.com/marwanzayed-coder/problem_solving/blob/main/calculate_sum.js)
+- [007- Calculate Circumference](https://github.com/marwanzayed-coder/problem_solving/blob/main/calculate_circumference.js)
