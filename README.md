@@ -22,3 +22,4 @@ The Number Of Problems You Solved Is
 - [012- String Length Comparison](https://github.com/marwanzayed-coder/problem_solving/blob/main/str_len_comparison.js)
 - [013- Octal To Binary](https://github.com/marwanzayed-coder/problem_solving/blob/main/oct_to_bin.js)
 - [014- Capital Space](https://github.com/marwanzayed-coder/problem_solving/blob/main/cap_space.js)
+- [015- Binary To Octal](https://github.com/marwanzayed-coder/problem_solving/blob/main/bin_to_oct.js)
