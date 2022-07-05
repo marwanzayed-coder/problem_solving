@@ -2,7 +2,7 @@
 
 The Number Of Problems You Solved Is 
 
-![12%](https://progress-bar.dev/12/?title=Solve)
+![14%](https://progress-bar.dev/14/?title=Solve)
 
 ### Day 1
 
@@ -20,3 +20,5 @@ The Number Of Problems You Solved Is
 - [010- Area Of Rhombus](https://github.com/marwanzayed-coder/problem_solving/blob/main/area_of_rhombus.js)
 - [011- Hashtag It](https://github.com/marwanzayed-coder/problem_solving/blob/main/hashtag_it.js)
 - [012- String Length Comparison](https://github.com/marwanzayed-coder/problem_solving/blob/main/str_len_comparison.js)
+- [013- Octal To Binary](https://github.com/marwanzayed-coder/problem_solving/blob/main/oct_to_bin.js)
+- [014- Capital Space](https://github.com/marwanzayed-coder/problem_solving/blob/main/cap_space.js)
