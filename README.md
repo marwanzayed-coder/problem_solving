@@ -2,7 +2,7 @@
 
 The Number Of Problems You Solved Is 
 
-![11%](https://progress-bar.dev/11/?title=Solve)
+![12%](https://progress-bar.dev/12/?title=Solve)
 
 ### Day 1
 
@@ -19,3 +19,4 @@ The Number Of Problems You Solved Is
 - [009- Get Primes Between](https://github.com/marwanzayed-coder/problem_solving/blob/main/getPrimesBetween.js)
 - [010- Area Of Rhombus](https://github.com/marwanzayed-coder/problem_solving/blob/main/area_of_rhombus.js)
 - [011- Hashtag It](https://github.com/marwanzayed-coder/problem_solving/blob/main/hashtag_it.js)
+- [012- String Length Comparison](https://github.com/marwanzayed-coder/problem_solving/blob/main/str_len_comparison.js)
