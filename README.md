@@ -1,7 +1,7 @@
 # Problem Solving
 
 The Number Of Problems You Solved Is 
-![100%](https://progress-bar.dev/6/?title=Done)
+![6%](https://progress-bar.dev/6/?title=Solve)
 
 
 - [001- Uppercase](https://github.com/marwanzayed-coder/problem_solving/blob/main/uppercase.js)
