@@ -2,7 +2,7 @@
 
 The Number Of Problems You Solved Is 
 
-![8%](https://progress-bar.dev/8/?title=Solve)
+![11%](https://progress-bar.dev/11/?title=Solve)
 
 ### Day 1
 
